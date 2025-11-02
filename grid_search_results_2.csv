@@ -1,0 +1,3 @@
+,cv,num_features,C,ngram_lens,suffix_lens,prefix_lens,hyperparams
+0,86.211,1200,0.1,"range(1, 11)","range(1, 6)","range(1, 6)","{'num_features': 1200, 'C': 0.1, 'ngram_lens': range(1, 11), 'suffix_lens': range(1, 6), 'prefix_lens': range(1, 6)}"
+1,86.231,1200,0.5,"range(1, 11)","range(1, 6)","range(1, 6)","{'num_features': 1200, 'C': 0.5, 'ngram_lens': range(1, 11), 'suffix_lens': range(1, 6), 'prefix_lens': range(1, 6)}"
